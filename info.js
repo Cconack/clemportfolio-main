@@ -8,7 +8,7 @@ let info = {
     }
   },
   description:
-    "A product designer with a proven track record across diverse tech industries, encompassing B2B and B2C products. My journey reflects a commitment to excellence, both in crafting exceptional products and mentoring aspiring tech entrepreneurs.",
+    "A Senior Product Designer with over 6 years of experience turning complex ideas into intuitive, impactful experiences. I blend storytelling, strategy, and problem-solving to bridge the gap between vision and execution. My adaptability and resilience enable me to navigate change, push creative boundaries, and deliver user-focused solutions that move businesses forward.",
   links: {
     linkedin: "https://www.linkedin.com/in/mendieclement",
     github: "https://github.com/Cconack",
@@ -40,28 +40,46 @@ let info = {
   ],
   experience: [
     {
+      name: "Corvendra Ltd.",
+      place: "Lagos, Nigeria",
+      date: "May 2025 - present",
+      position: "Senior Product Designer",
+      description:
+        "Designed a next-gen tax filing and accounting solution that improves user accuracy, compliance and payment timeliness by 40%, introduced dynamic dashboards and intuitive reporting tools for SMEs, and led cross-functional collaboration to build scalable, user-focused financial products. ",
+      skills: ["Figma", "Team Leadership", "Jira", " Product Lifecycle Management", "Agile Project Management", "User Experience Design (UED)", "User Interface Prototyping", "Strategic Planning", "Task Management", "Slack"]
+    },
+    {
+      name: "Ethifunds",
+      place: "Lagos, Nigeria",
+      date: "Sep 2024 – Dec 2024",
+      position: "Senior Product Designer",
+      description:
+        "Designed and delivered user-centered financial products, including REITs and savings investment tools, that increased monthly active user by 25% through user research, feature refinement, and close collaboration with engineering and product teams from concept to high-fidelity implementation. ",
+      skills: ["Figma", "Team Leadership", " Product Lifecycle Management", "Agile Project Management", "User Experience Design (UED)", "User Interface Prototyping", "Strategic Planning", "Task Management", "Trello", "Slack"]
+    },
+    {
       name: "Motopay",
       place: "Lagos, Nigeria",
-      date: "March 2023 - present",
-      position: "Product Lead",
+      date: "March 2023 - April 2025",
+      position: "Product Design Lead",
       description:
-        "Leading and mentoring a team of 5 designers, including UX/UI designers, visual designers, and researchers, to execute the design strategy on a fintech product. ",
-      skills: ["Figma", "Team Leadership", " Product Lifecycle Management", "Agile Project Management", "User Experience Design (UED)", "User Interface Prototyping", "Strategic Planning", "Task Management", "Trello", "Slack"]
+        "Led a team of 5 designers, to execute the design strategy on a fintech product. ",
+      skills: ["Figma", "Team Leadership", " Product Lifecycle Management", "Agile Project Management", "User Experience Design (UED)", "User Interface Prototyping", "Strategic Planning", "Task Management", "Jira", "Slack"]
     },
     {
       name: "Sujimoto Group",
       place: "Ikoyi,Lagos, Nigeria",
-      date: "April 2023 - present",
-      position: "Product Lead Designer",
+      date: "April 2023 - April 2025",
+      position: "Product Design Lead",
       description:
         "Designing features that enhance product specifically crafted to empower the sales team in the dynamic field of property rentals, investment and leasing.",
-      skills: ["Figma", "Slack", "Miro", "Trello", "HTML", "CSS", "JavaSript", "", ""]
+      skills: ["Figma", "Slack", "Miro", "Trello", "HTML", "Wordpress", "CSS", "JavaSript", "", ""]
     },
     {
       name: "Moore Advice Limited",
       place: "Lagos, Nigeria",
       date: "March 2022 - May, 2022",
-      position: "Frontend Developer (UI/UX Designer)",
+      position: "UI/UX Designer (Front-end developer),",
       description:
         "",
       skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "Figma", "Brizzy","Powerpoint"]
@@ -79,15 +97,15 @@ let info = {
       name: "QwikMech",
       place: "Lagos, Nigeria (Remote)",
       date: "Nov. 2020 - Jun. 2021",
-      position: "Chief Technology Officer",
-      description: "Design and cordinate IT strategies,outsource documentsand analyse code stucture and product architecture",
+      position: "UI/UX Designer (Front-end developer),",
+      description: "Designed scalable, modular UI components using Figma and modern front-end frameworks, guided by user research and competitive analysis to refine product experiences, while streamlining development workflows and ensuring seamless collaboration between design and engineering teams.",
       skills: ["figma", "slack", "Laravel", "Mysql" ]
     },
     {
       name: "Church Girl Magizine",
       place: "Calabar, Nigeria",
       date: "Feb 2019 - Jan 2022",
-      position: "Web Developer",
+      position: "UI/UX Designer",
       description: " ",
       skills: ["Html", "CSS", "Bootstrap", "Php", "Javascript", "Jquery","Mysql"]
     },
@@ -95,7 +113,7 @@ let info = {
   skills: [
     {
       title: "Product Design",
-      info: ["Figma", "Illustrator", "Miro", "Photoshop", "Sketch",],
+      info: ["Figma", "Illustration", "Miro", "Photoshop", "Sketch", "Human centered design", "AI UX Design","Problem-Solving"],
       icon: "fa fa-pencil-square-o"
     },
    
@@ -107,7 +125,7 @@ let info = {
     },
     {
       title: "Tools",
-      info: ["Trello", "Slack", "Invision", "powerpoint","git", "github", "Click-up"],
+      info: ["Trello", "Slack", "Jira", "Invision", "powerpoint","git", "github", "Click-up"],
       icon: "fa fa-cubes"
     },
   ],
