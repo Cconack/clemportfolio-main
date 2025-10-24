@@ -94,27 +94,27 @@ let info = {
       skills: ["Figma", "Bootstrap", "Vue.js", "Vuetify", "Html", "CSS", "JavaSript", "", "Trello"]
     },
     {
-      name: "QwikMech",
-      place: "Lagos, Nigeria (Remote)",
-      date: "Nov. 2020 - Jun. 2021",
-      position: "UI/UX Designer (Front-end developer),",
-      description: "Designed scalable, modular UI components using Figma and modern front-end frameworks, guided by user research and competitive analysis to refine product experiences, while streamlining development workflows and ensuring seamless collaboration between design and engineering teams.",
-      skills: ["figma", "slack", "Laravel", "Mysql" ]
-    },
-    {
-      name: "Church Girl Magizine",
-      place: "Calabar, Nigeria",
-      date: "Feb 2019 - Jan 2022",
-      position: "UI/UX Designer",
-      description: " ",
-      skills: ["Html", "CSS", "Bootstrap", "Php", "Javascript", "Jquery","Mysql"]
+  name: "QwikMech",
+  place: "Lagos, Nigeria (Remote)",
+  date: "Nov. 2020 - Jun. 2021",
+  position: "UI/UX Designer (Front-end developer),",
+  description: "Designed scalable, modular UI components using Figma and modern front-end frameworks, guided by user research and competitive analysis to refine product experiences, while streamlining development workflows and ensuring seamless collaboration between design and engineering teams.",
+  skills: ["figma", "slack", "Laravel", "Mysql" ]
+  },
+  {
+  name: "Church Girl Magizine",
+  place: "Calabar, Nigeria",
+  date: "Feb 2019 - Jan 2022",
+  position: "UI/UX Designer",
+  description: " ",
+  skills: ["Html", "CSS", "Bootstrap", "Php", "Javascript", "Jquery","Mysql"]
     },
   ],
   skills: [
     {
-      title: "Product Design",
-      info: ["Figma", "Illustration", "Miro", "Photoshop", "Sketch", "Human centered design", "AI UX Design","Problem-Solving"],
-      icon: "fa fa-pencil-square-o"
+  title: "Product Design",
+  info: ["Figma", "Illustration", "Miro", "Photoshop", "Sketch", "Human centered design", "AI UX Design","Problem-Solving"],
+  icon: "fa fa-pencil-square-o"
     },
    
     {
@@ -124,9 +124,9 @@ let info = {
       icon: "fas fa-laptop-code"
     },
     {
-      title: "Tools",
-      info: ["Trello", "Slack", "Jira", "Invision", "powerpoint","git", "github", "Click-up"],
-      icon: "fa fa-cubes"
+  title: "Tools",
+  info: ["Trello", "Slack", "Jira", "Invision", "powerpoint","git", "github", "Click-up"],
+  icon: "fa fa-cubes"
     },
   ],
   portfolio_design: [
