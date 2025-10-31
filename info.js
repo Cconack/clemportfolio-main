@@ -130,6 +130,52 @@ let info = {
     },
   ],
   portfolio_design: [
+     {
+      name: "Paysmart",
+      title: "Paysmart",
+      pictures: [
+        {
+          img: require("./src/assets/mock 2.png"),
+          title: "Mobile App"
+        },
+        {
+          img: require("./src/assets/screen.png"),
+          title: "Light Mode"
+        },
+        {
+          img: require("./src/assets/screen2.png"),
+          title: "Dark Mode"
+        },
+      ],
+      technologies: ["Figma", ],
+      category: "UI Redesign",
+      github: "",
+      date: "Oct, 2025",
+      visit: "",
+      description:
+        ""
+    },
+     {
+      name: "Ethifunds Investment",
+      title: "Ethifunds",
+      pictures: [
+        {
+          img: require("./src/assets/mock.png"),
+          title: "Landing page UI"
+        },
+        {
+          img: require("./src/assets/Desk.png"),
+          title: "show"
+        },
+      ],
+      technologies: ["Figma", ],
+      category: "UI Redesign",
+      github: "",
+      date: "Dec, 2024",
+      visit: "https//www.ethifunds.com",
+      description:
+        "Ethifunds Investment is a fintech platform that empowers users to grow wealth responsibly through ethical and sustainable investments. I led the product design effort to redefine how users perceive trust, transparency, and financial literacy in the investment space."
+    },
     {
       name: "UBA App redesign",
       title: "UBA App Redesign",
