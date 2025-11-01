@@ -160,7 +160,7 @@ let info = {
       title: "Ethifunds",
       pictures: [
         {
-          img: require("./src/assets/mock.png"),
+          img: require("./src/assets/mocku.jpeg"),
           title: "Landing page UI"
         },
         {
